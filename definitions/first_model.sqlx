@@ -1,1 +1,5 @@
-Hello world;
+config {
+    type: "table"
+}
+
+SELECT "dataform" as name_dataform
